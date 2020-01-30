@@ -1,0 +1,14 @@
+code --install-extension ms-vscode.vs-keybindings
+code --install-extension formulahendry.dotnet-test-explorer
+code --install-extension formulahendry.dotnet
+code --install-extension msjsdiag.vscode-react-native
+code --install-extension eamodio.gitlens
+code --install-extension adrianwilczynski.add-reference
+code --install-extension ms-vscode.csharp
+code --install-extension jmrog.vscode-nuget-package-manager
+code --install-extension ckolkman.vscode-postgres
+code --install-extension msjsdiag.vscode-react-native
+code --install-extension rbbit.typescript-hero
+code --install-extension fernandoescolar.vscode-solution-explorer
+code --install-extension quicktype.quicktype
+code --install-extension vscode-icons-team.vscode-icons
